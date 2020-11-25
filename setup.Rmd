@@ -48,8 +48,9 @@ Nice job! Now let's make it yours, and connect it to GitHub.
 Last steps! 
 
 1. Go back to github.com/username/"awesome-book" and refresh — our files should be there! But we want it to be a book published as https://username.github.io/awesome-book.
+1. Open your "awesome-book" repo in GitHub
 1. Click Settings
-1. Scroll down to GitHub Settings
+1. Scroll down to GitHub Pages
 1. Change the Source pulldown from "None" to "master branch /docs folder"
 1. It should say "Your site is ready to be published at https://username.github.io/awesome-book/" — click the link to see!
 
